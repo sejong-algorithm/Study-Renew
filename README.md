@@ -1,4 +1,5 @@
 <div align = "center">
+    
 [![GitHub license](https://img.shields.io/github/license/sejong-algorithm/Study-Renew)](https://github.com/sejong-algorithm/Study-Renew/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/sejong-algorithm/Study-Renew)](https://github.com/sejong-algorithm/Study-Renew/issues)
 <!-- [![GitHub forks](https://img.shields.io/github/forks/Nuung/all-about-javascript)](https://github.com/Nuung/all-about-javascript/network) -->
