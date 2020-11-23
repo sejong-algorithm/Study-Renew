@@ -36,13 +36,14 @@ class JobStudy {
     - 리스트(List), 배열(Array), 연결 리스트(Linked List)
     - 스택(Stack)
     - 큐(queue), 덱(Dequeue)
+
     <details>
-    <summary>대표 문제 살펴보기</summary>
+    <summary> 대표 문제 살펴보기</summary>
     <div markdown="1">
-        |제목|내용|
-        |--|--|
-        |1|1|
-        |2|10|
+    |제목|내용|
+    |--|--|
+    |1|1|
+    |2|10|
     </div>
     </details>
 
