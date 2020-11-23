@@ -1,6 +1,5 @@
 <div align = "center">
-    <img src="https://img.shields.io/badge/license-MIT-green" />
-
+[![GitHub license](https://img.shields.io/github/license/sejong-algorithm/Study-Renew)](https://github.com/sejong-algorithm/Study-Renew/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/sejong-algorithm/Study-Renew)](https://github.com/sejong-algorithm/Study-Renew/issues)
 <!-- [![GitHub forks](https://img.shields.io/github/forks/Nuung/all-about-javascript)](https://github.com/Nuung/all-about-javascript/network) -->
 <!-- [![GitHub stars](https://img.shields.io/github/stars/Nuung/all-about-javascript)](https://github.com/Nuung/all-about-javascript/stargazers) -->
@@ -27,14 +26,25 @@ class JobStudy {
 }
 ```
 
-## 목차
+[ 여기 slovedac api 사용해서 작은 카드 형식으로 4개 나열해두기 ]
 
-### 알고리즘 리스트
+## Index
+
+### Algorithm list 
 
 - 가장 기본 자료구조
     - 리스트(List), 배열(Array), 연결 리스트(Linked List)
     - 스택(Stack)
     - 큐(queue), 덱(Dequeue)
+    <details>
+    <summary>대표 문제 살펴보기</summary>
+    <div markdown="1">
+        |제목|내용|
+        |--|--|
+        |1|1|
+        |2|10|
+    </div>
+    </details>
 
 - 시뮬레이션 
 
@@ -57,6 +67,7 @@ class JobStudy {
 
 
 
+
 세그먼트 트리
 펜윅 트리
 상호 배타 집합
@@ -72,3 +83,17 @@ Repeated Squaring
 기하 기초(점과 점사이 거리, 점과 선사이 거리, 선과 선사이 거리, CCW 등등)
 CLosest Pair
 Convex hull
+
+
+### Tech Interview List
+
+- 가 
+
+
+<hr/>
+<br/>
+
+
+## Log
+
+- 가 
